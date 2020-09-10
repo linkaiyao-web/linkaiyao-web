@@ -1,16 +1,12 @@
-### Hi there 👋
+### 个人介绍
+- 姓名：林楷耀
+- 学校：广东工业大学
+- 班级：兴趣爱好
+- 爱好：运动，学习，玩游戏
 
-<!--
-**linkaiyao-web/linkaiyao-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 软工五问
+- 学习软件工程要有什么基础？
+- 如何学习软件工程？
+- 学习软件工程需要用到什么工具？
+- 学习软件工程以后可以开发软件吗？
+- 学习软件工程对以后工作有什么帮助？
